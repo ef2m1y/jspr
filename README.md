@@ -1,4 +1,3 @@
 # jspr
 
-JavaScript Primer
-https://jsprimer.net/
+reference: https://jsprimer.net/
